@@ -1,4 +1,4 @@
-# Mentor-Biz
+# Mentor-Me
 Assisting Tech startups and entrepreneurs in finding resources to better their business
 
 How to access this project
